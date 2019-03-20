@@ -1,0 +1,10 @@
+
+(gedit:2819): GVFS-RemoteVolumeMonitor-WARNING **: 11:19:57.752: Owner of volume monitor org.gtk.vfs.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:2819): GVFS-RemoteVolumeMonitor-WARNING **: 11:19:58.602: Owner of volume monitor org.gtk.vfs.GoaVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:2819): GVFS-RemoteVolumeMonitor-WARNING **: 11:19:58.603: Owner of volume monitor org.gtk.vfs.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:2819): GVFS-RemoteVolumeMonitor-WARNING **: 11:19:58.603: Owner of volume monitor org.gtk.vfs.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gedit:2819): GVFS-RemoteVolumeMonitor-WARNING **: 11:19:58.603: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
